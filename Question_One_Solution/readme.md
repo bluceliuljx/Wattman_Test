@@ -1,6 +1,6 @@
 # 说明
 
-Question_One_demo.ipynb 中包含问题1的答案
+Question_One_demo.ipynb 中包含问题1的答案，以及问题2的计算过程。
 
 img_a_img_b_merge.py 中把问题1的第2个回答封装成一个小工具
 
